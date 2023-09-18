@@ -8,7 +8,7 @@ Estrutura do Código:
 
 3. filtrar colunas e calcular faturamento por loja
 
-4.filtrar colunas e calcular quantidade de produtos vendidos por loja
+4. filtrar colunas e calcular quantidade de produtos vendidos por loja
 
 5. calcular ticket médio por produto em cada loja das colunas filtradas acima
 
