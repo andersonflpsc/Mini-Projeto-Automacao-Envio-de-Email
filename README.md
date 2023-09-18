@@ -1,4 +1,4 @@
-# Breve Projeto Automacao-Envio-de-Email com análise de tabelas com Pandas🐼
+# Breve Projeto de Automação de Envio de Email com análise de tabelas usando Pandas🐼
 
 Estrutura do Código:
 
